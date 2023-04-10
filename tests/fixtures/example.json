@@ -1,0 +1,342 @@
+[
+    {
+        "name": "0fd36",
+        "chemical_uses": [
+            {
+                "name": "27288",
+                "amount": 6
+            },
+            {
+                "name": "cf1a6",
+                "amount": 5
+            },
+            {
+                "name": "dd5c2",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "name": "f2de5",
+        "chemical_uses": [
+            {
+                "name": "44a20",
+                "amount": 3
+            },
+            {
+                "name": "287b3",
+                "amount": 7
+            },
+            {
+                "name": "812e4",
+                "amount": 6
+            }
+        ]
+    },
+    {
+        "name": "a31fd",
+        "chemical_uses": [
+            {
+                "name": "13c57",
+                "amount": 4
+            },
+            {
+                "name": "e0056",
+                "amount": 3
+            },
+            {
+                "name": "2a646",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "name": "8c7f1",
+        "chemical_uses": [
+            {
+                "name": "57deb",
+                "amount": 6
+            },
+            {
+                "name": "b9a24",
+                "amount": 4
+            },
+            {
+                "name": "fa1a1",
+                "amount": 7
+            }
+        ]
+    },
+    {
+        "name": "b7b45",
+        "chemical_uses": [
+            {
+                "name": "cbee3",
+                "amount": 4
+            },
+            {
+                "name": "19c77",
+                "amount": 7
+            },
+            {
+                "name": "bd4ec",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "name": "09c24",
+        "chemical_uses": [
+            {
+                "name": "f912a",
+                "amount": 10
+            },
+            {
+                "name": "cefa6",
+                "amount": 8
+            },
+            {
+                "name": "89977",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "name": "55221",
+        "chemical_uses": [
+            {
+                "name": "4da5a",
+                "amount": 7
+            },
+            {
+                "name": "88b53",
+                "amount": 4
+            },
+            {
+                "name": "ac8b8",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "name": "3dc5d",
+        "chemical_uses": [
+            {
+                "name": "3397b",
+                "amount": 7
+            },
+            {
+                "name": "c6d5e",
+                "amount": 4
+            },
+            {
+                "name": "5f463",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "name": "0a8e4",
+        "chemical_uses": [
+            {
+                "name": "823cc",
+                "amount": 8
+            },
+            {
+                "name": "e214e",
+                "amount": 4
+            },
+            {
+                "name": "d6b6a",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "name": "7a62e",
+        "chemical_uses": [
+            {
+                "name": "d5cd8",
+                "amount": 10
+            },
+            {
+                "name": "52327",
+                "amount": 3
+            },
+            {
+                "name": "60ad2",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "name": "6b225",
+        "chemical_uses": [
+            {
+                "name": "b6491",
+                "amount": 5
+            },
+            {
+                "name": "e5bd0",
+                "amount": 10
+            },
+            {
+                "name": "28071",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "name": "6432d",
+        "chemical_uses": [
+            {
+                "name": "e44b0",
+                "amount": 3
+            },
+            {
+                "name": "da2e9",
+                "amount": 9
+            },
+            {
+                "name": "e9809",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "name": "ed9b0",
+        "chemical_uses": [
+            {
+                "name": "6fc3f",
+                "amount": 6
+            },
+            {
+                "name": "5fbf2",
+                "amount": 9
+            },
+            {
+                "name": "037f7",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "name": "fc824",
+        "chemical_uses": [
+            {
+                "name": "cc1f0",
+                "amount": 7
+            },
+            {
+                "name": "ae326",
+                "amount": 7
+            },
+            {
+                "name": "021de",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "name": "38899",
+        "chemical_uses": [
+            {
+                "name": "5448d",
+                "amount": 7
+            },
+            {
+                "name": "6be60",
+                "amount": 8
+            },
+            {
+                "name": "2db40",
+                "amount": 7
+            }
+        ]
+    },
+    {
+        "name": "042ad",
+        "chemical_uses": [
+            {
+                "name": "af509",
+                "amount": 10
+            },
+            {
+                "name": "7fddb",
+                "amount": 4
+            },
+            {
+                "name": "1ec9a",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "name": "87bb3",
+        "chemical_uses": [
+            {
+                "name": "bd7a6",
+                "amount": 9
+            },
+            {
+                "name": "759d8",
+                "amount": 9
+            },
+            {
+                "name": "634b1",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "name": "86675",
+        "chemical_uses": [
+            {
+                "name": "19d8b",
+                "amount": 3
+            },
+            {
+                "name": "9e6f4",
+                "amount": 10
+            },
+            {
+                "name": "b4075",
+                "amount": 8
+            }
+        ]
+    },
+    {
+        "name": "f8dad",
+        "chemical_uses": [
+            {
+                "name": "4be95",
+                "amount": 6
+            },
+            {
+                "name": "40593",
+                "amount": 8
+            },
+            {
+                "name": "de342",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "name": "3f57a",
+        "chemical_uses": [
+            {
+                "name": "26d5b",
+                "amount": 9
+            },
+            {
+                "name": "aef45",
+                "amount": 8
+            },
+            {
+                "name": "bf96a",
+                "amount": 6
+            }
+        ]
+    }
+]
